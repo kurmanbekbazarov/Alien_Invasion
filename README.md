@@ -32,15 +32,12 @@ loses a ship. If the player loses three ships, the game ends.
 ### Cloning the Repository
 
 ```
-$ git clone https://github.com/bryanlds/Alien-Invasion.git
+$ git clone https://github.com/kurmanbekbazarov/Alien_Invasion.git
 
 $ cd Alien-Invasion
 ```
 
 ### Running 
 
-```
 $ python alien_invasion.py
-``` 
 
-Enjoy!
