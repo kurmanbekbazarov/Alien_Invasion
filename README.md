@@ -29,8 +29,6 @@ loses a ship. If the player loses three ships, the game ends.
 - Arrows keys (left - right)
   - Move the ship left / right
 
-## ⚔ Let's play
-
 ### Cloning the Repository
 
 ```
