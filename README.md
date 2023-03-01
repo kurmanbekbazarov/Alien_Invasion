@@ -39,5 +39,5 @@ $ cd Alien-Invasion
 
 ### Running 
 
-$ python alien_invasion.py
+$ python space_Invaders.py
 
