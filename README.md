@@ -2,12 +2,12 @@
   <img src="interface.png" width = 60%>
 </div> 
 
-# 👽 Alien Invasion
-Alien Invasion is a popular arcade game where alien ships appear at the top of screen
+# 👽 Space Invaders
+Space Invaders is a popular arcade game where alien ships appear at the top of screen
 and keep coming down to defeat the player try it and have fun!
 
 ## 🚀 Introduction
-> In Alien Invasion, the player controls a ship that appears at
+> In Space Invaders, the player controls a ship that appears at
 the bottom center of the screen. The player can move the ship
 right and left using the arrow keys and shoot bullets using the
 spacebar. When the game begins, a fleet of aliens fills the sky
